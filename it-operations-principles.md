@@ -1,0 +1,21 @@
+IT Operations Principles
+------------------------
+- Sustainability
+  - Everything needs to be set up to comply with other principles for its useful life.
+- Supportability
+  - If we can't suppport it, it shouldn't exist
+  - Support means its documented, has proper DR/capacity planning etc.
+  - Its generally in a state that it won't cause any issues for the predictable future
+- Scalability
+  - It should work now, and for the predictable future
+  - What do we do when its too big/popular/slow?
+- Planning
+  - Understand where we are now
+  - Understand where we want to be in various timeframes (6mo/1y/3y/5y)
+  - Have a plan for how to get from A to B to C to D
+  - The plan can change - its not static
+- Reduce Duplication and Improve Process
+  - Will this ever be done again?
+  - What's the time/cost of doing this over a longer period?
+  - Is it worth investing in early?
+
