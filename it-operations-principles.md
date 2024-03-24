@@ -18,4 +18,15 @@ IT Operations Principles
   - Will this ever be done again?
   - What's the time/cost of doing this over a longer period?
   - Is it worth investing in early?
-
+- Documentation
+  - Don't just document what, document why
+  - Add value rather than reproduce - if we followed the manual, just document what was specific to us, rather than the entire procedure
+  - Search is more important than structure - we generally don't browse/navigate to documentation
+  - Keep it consistent - have a documentation standard and reference pages for best practise. Don't use personal color schemes or styles.
+  - Documentation isn't a place for jokes, unnecessary images, etc.
+  - Post relevant images only. Restrict screenshots to the minimum relevant area (you don't need the whole screenshot to show just a window). Ensure the quality/resolution is reasonable.
+- Standards
+  - If its not enforced, its not a standard
+  - Use the monitoring system to detect and enforce standards
+  - If the process/tool allows you to differ from the standard, the process/tool is broken
+  - Create systems where doing things the right way is the only way to get it done
