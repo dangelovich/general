@@ -1,7 +1,6 @@
 # Experience
 ----------
 Much of this is based on memory, so there will be a lot of missing parts.
-[toc]
 ## Questrade
 ### Environment
 ### Processes
